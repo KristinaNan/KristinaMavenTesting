@@ -5,8 +5,9 @@
   <groupId>com.testing.kris</groupId>
   <artifactId>KristinaMavenTesting</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>jar</packaging>
+  <packaging>pom</packaging>
 
+<!-- commentt here...... -->
   <name>KristinaMavenTesting</name>
   <url>http://maven.apache.org</url>
 
